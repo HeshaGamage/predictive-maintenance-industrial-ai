@@ -1,0 +1,27 @@
+{
+  "ENGINE-034": {
+    "asset_id": "ENGINE-034",
+    "priority": "critical",
+    "predicted_failure_window": "within 6.2 cycles",
+    "affected_components": [
+      "Low Pressure Turbine (LPT)",
+      "HPC Hot Section",
+      "HPC Rotor and Stator"
+    ],
+    "recommended_parts": [
+      "LPT outlet temperature sensor",
+      "HPC outlet static pressure sensor",
+      "HPC rotor and stator replacement"
+    ],
+    "estimated_hours": 24,
+    "required_technician_skill": "level 3",
+    "safety_precautions": [
+      "Ensure engine is secured and isolated from power source",
+      "Wear personal protective equipment (PPE) during inspection"
+    ],
+    "summary_for_technician": "Engine-034 is predicted to fail within 6.2 cycles due to multiple sensor anomalies. Perform inspection and replacement of affected components to prevent catastrophic failure.",
+    "predicted_rul": 6.2,
+    "risk_level": "CRITICAL",
+    "current_cycle": 203
+  }
+}

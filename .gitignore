@@ -7,11 +7,11 @@ __pycache__/
 
 # Data
 data/raw/
-data/processed/
+#data/processed/
 
 # Models
-models/*.pkl
-models/*.joblib
+#models/*.pkl
+#models/*.joblib
 
 # OS
 .DS_Store
