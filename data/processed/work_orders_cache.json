@@ -1,0 +1,575 @@
+{
+  "ENGINE-034": {
+    "asset_id": "ENGINE-034",
+    "priority": "critical",
+    "predicted_failure_window": "within 6.2 cycles",
+    "affected_components": [
+      "Low Pressure Turbine (LPT)",
+      "HPC Hot Section",
+      "HPC Rotor and Stator"
+    ],
+    "recommended_parts": [
+      "LPT outlet temperature sensor",
+      "HPC outlet static pressure sensor",
+      "HPC rotor and stator replacement"
+    ],
+    "estimated_hours": 24,
+    "required_technician_skill": "level 3",
+    "safety_precautions": [
+      "Ensure engine is secured and isolated from power source",
+      "Wear personal protective equipment (PPE) during inspection"
+    ],
+    "summary_for_technician": "Engine-034 is predicted to fail within 6.2 cycles due to multiple sensor anomalies. Perform inspection and replacement of affected components to prevent catastrophic failure.",
+    "predicted_rul": 6.2,
+    "risk_level": "CRITICAL",
+    "current_cycle": 203
+  },
+  "ENGINE-076": {
+    "asset_id": "ENGINE-076",
+    "priority": "critical",
+    "predicted_failure_window": "within 6.4 cycles",
+    "affected_components": [
+      "Low Pressure Turbine (LPT) hot section",
+      "High Pressure Compressor (HPC) blades",
+      "Core",
+      "Bypass duct"
+    ],
+    "recommended_parts": [
+      "LPT hot section components",
+      "HPC blades",
+      "Core components",
+      "Bypass duct components"
+    ],
+    "estimated_hours": 24,
+    "required_technician_skill": "specialist",
+    "safety_precautions": [
+      "Ensure proper engine shutdown procedures are followed",
+      "Use personal protective equipment (PPE) when working with hot components"
+    ],
+    "summary_for_technician": "Engine 076 is predicted to fail within 6.4 cycles. Perform a thorough inspection and replace affected components as needed to prevent engine failure.",
+    "predicted_rul": 6.4,
+    "risk_level": "CRITICAL",
+    "current_cycle": 205
+  },
+  "ENGINE-081": {
+    "asset_id": "ENGINE-081",
+    "priority": "critical",
+    "predicted_failure_window": "within 7.3 cycles",
+    "affected_components": [
+      "Low Pressure Turbine (LPT) hot section",
+      "High Pressure Compressor (HPC) blades",
+      "Fuel system",
+      "Fan and bypass duct"
+    ],
+    "recommended_parts": [
+      "LPT hot section components",
+      "HPC blades",
+      "Fuel system components",
+      "Fan and bypass duct components"
+    ],
+    "estimated_hours": 24,
+    "required_technician_skill": "specialist",
+    "safety_precautions": [
+      "Ensure proper engine shutdown and cooling procedures are followed",
+      "Wear personal protective equipment (PPE) during maintenance",
+      "Verify proper ventilation and fire suppression systems are in place"
+    ],
+    "summary_for_technician": "Perform a thorough inspection and replacement of affected components in ENGINE-081, a critical risk engine with predicted failure within 7.3 cycles.",
+    "predicted_rul": 7.3,
+    "risk_level": "CRITICAL",
+    "current_cycle": 213
+  },
+  "ENGINE-082": {
+    "asset_id": "ENGINE-082",
+    "priority": "critical",
+    "predicted_failure_window": "within 8 cycles",
+    "affected_components": [
+      "Low Pressure Turbine (LPT)",
+      "HPC Hot Section",
+      "HPC Blades"
+    ],
+    "recommended_parts": [
+      "LPT Outlet Temperature Sensor",
+      "HPC Outlet Static Pressure Sensor"
+    ],
+    "estimated_hours": 20,
+    "required_technician_skill": "level 3",
+    "safety_precautions": [
+      "Isolate power to engine",
+      "Use proper PPE",
+      "Ensure proper ventilation"
+    ],
+    "summary_for_technician": "Engine ENGINE-082 is predicted to fail within 8 cycles due to multiple sensor anomalies. Perform a thorough inspection and replacement of affected components as necessary.",
+    "predicted_rul": 8.1,
+    "risk_level": "CRITICAL",
+    "current_cycle": 162
+  },
+  "ENGINE-068": {
+    "asset_id": "ENGINE-068",
+    "priority": "critical",
+    "predicted_failure_window": "within 8 cycles",
+    "affected_components": [
+      "Low Pressure Turbine (LPT)",
+      "Hot Section Components",
+      "High Pressure Compressor (HPC)",
+      "Fuel System",
+      "Combustor",
+      "Fan and Bypass Duct"
+    ],
+    "recommended_parts": [
+      "LPT outlet temperature sensor",
+      "HPC outlet static pressure sensor",
+      "Bypass ratio sensor",
+      "Core speed sensor"
+    ],
+    "estimated_hours": 24,
+    "required_technician_skill": "specialist",
+    "safety_precautions": [
+      "Ensure proper engine shutdown and cooling before starting work",
+      "Use personal protective equipment (PPE) when working with hot components",
+      "Verify proper electrical isolation before performing any electrical work"
+    ],
+    "summary_for_technician": "Perform inspection and replacement of faulty sensors and components to prevent engine failure. Ensure all safety precautions are taken before starting work.",
+    "predicted_rul": 8.1,
+    "risk_level": "CRITICAL",
+    "current_cycle": 187
+  },
+  "ENGINE-020": {
+    "asset_id": "ENGINE-020",
+    "priority": "critical",
+    "predicted_failure_window": "within 9.1 cycles",
+    "affected_components": [
+      "Low Pressure Turbine (LPT) hot section",
+      "High Pressure Compressor (HPC) blades",
+      "Bypass duct"
+    ],
+    "recommended_parts": [
+      "LPT hot section repair kit",
+      "HPC blade set",
+      "Bypass duct assembly"
+    ],
+    "estimated_hours": 24,
+    "required_technician_skill": "specialist",
+    "safety_precautions": [
+      "Ensure proper engine shutdown procedures are followed",
+      "Use personal protective equipment (PPE) when working with hot components"
+    ],
+    "summary_for_technician": "Engine ENGINE-020 is predicted to fail within 9.1 cycles due to critical anomalies in LPT outlet temperature, HPC outlet static pressure, and bypass ratio. Perform a thorough inspection and replacement of affected components as necessary.",
+    "predicted_rul": 9.1,
+    "risk_level": "CRITICAL",
+    "current_cycle": 184
+  },
+  "ENGINE-031": {
+    "asset_id": "ENGINE-031",
+    "priority": "critical",
+    "predicted_failure_window": "within 11 cycles",
+    "affected_components": [
+      "Low Pressure Turbine (LPT)",
+      "HPC (High Pressure Compressor) blades",
+      "LPT outlet temperature sensor",
+      "HPC outlet static pressure sensor",
+      "Bypass duct and fan"
+    ],
+    "recommended_parts": [
+      "LPT blades",
+      "HPC blades",
+      "Bypass duct seal kit",
+      "Fan blade"
+    ],
+    "estimated_hours": 24,
+    "required_technician_skill": "level 3",
+    "safety_precautions": [
+      "Ensure proper engine shutdown and cooling before starting work",
+      "Use personal protective equipment (PPE) when working with hot components",
+      "Verify proper clearance and support before removing components"
+    ],
+    "summary_for_technician": "Engine 031 is predicted to fail within 11 cycles. Perform inspection and replacement of affected components to prevent engine failure.",
+    "predicted_rul": 11.0,
+    "risk_level": "CRITICAL",
+    "current_cycle": 196
+  },
+  "ENGINE-035": {
+    "asset_id": "ENGINE-035",
+    "priority": "critical",
+    "predicted_failure_window": "within 12.6 cycles",
+    "affected_components": [
+      "Low Pressure Turbine (LPT) hot section",
+      "High Pressure Compressor (HPC) blades",
+      "Fan and bypass duct"
+    ],
+    "recommended_parts": [
+      "LPT hot section repair kit",
+      "HPC blade replacement set",
+      "Bypass duct sealant"
+    ],
+    "estimated_hours": 24,
+    "required_technician_skill": "specialist",
+    "safety_precautions": [
+      "Ensure proper engine shutdown and cooling before inspection",
+      "Wear personal protective equipment (PPE) during work",
+      "Use lockout/tagout procedures to prevent accidental engine start"
+    ],
+    "summary_for_technician": "Inspect and replace damaged components in Engine-035, a critical risk engine with predicted failure within 12.6 cycles. Perform a thorough inspection of the LPT hot section, HPC blades, and fan and bypass duct, and replace any damaged parts with recommended repair kits and replacement sets.",
+    "predicted_rul": 12.6,
+    "risk_level": "CRITICAL",
+    "current_cycle": 198
+  },
+  "ENGINE-042": {
+    "asset_id": "ENGINE-042",
+    "priority": "critical",
+    "predicted_failure_window": "within 12.6 cycles",
+    "affected_components": [
+      "Low Pressure Turbine (LPT) outlet temperature sensor",
+      "High Pressure Compressor (HPC) outlet static pressure sensor",
+      "Bypass duct and fan components"
+    ],
+    "recommended_parts": [
+      "LPT outlet temperature sensor",
+      "HPC outlet static pressure sensor",
+      "Bypass duct and fan components"
+    ],
+    "estimated_hours": 20,
+    "required_technician_skill": "specialist",
+    "safety_precautions": [
+      "Ensure proper engine shutdown and cooling before inspection",
+      "Use personal protective equipment (PPE) during inspection and repair"
+    ],
+    "summary_for_technician": "Inspect and replace faulty components in engine ENGINE-042 due to critical anomalies in LPT and HPC sensor readings and bypass ratio. Specialist technician required for this critical maintenance task.",
+    "predicted_rul": 12.6,
+    "risk_level": "CRITICAL",
+    "current_cycle": 156
+  },
+  "ENGINE-049": {
+    "asset_id": "ENGINE-049",
+    "priority": "high",
+    "predicted_failure_window": "within 15 cycles",
+    "affected_components": [
+      "Low Pressure Turbine (LPT) hot section",
+      "High Pressure Compressor (HPC) blades"
+    ],
+    "recommended_parts": [
+      "LPT hot section repair kit",
+      "HPC blade replacement set"
+    ],
+    "estimated_hours": 10,
+    "required_technician_skill": "level 3",
+    "safety_precautions": [
+      "Ensure proper engine shutdown and cooling before inspection",
+      "Use personal protective equipment (PPE) during work"
+    ],
+    "summary_for_technician": "Inspect and repair LPT hot section and replace HPC blades on ENGINE-049 due to high risk of failure within 15 cycles.",
+    "predicted_rul": 15.1,
+    "risk_level": "HIGH",
+    "current_cycle": 303
+  },
+  "ENGINE-056": {
+    "asset_id": "ENGINE-056",
+    "priority": "high",
+    "predicted_failure_window": "within 16.7 cycles",
+    "affected_components": [
+      "Low Pressure Turbine (LPT) hot section",
+      "LPT outlet",
+      "High Pressure Compressor (HPC) outlet",
+      "Bypass duct"
+    ],
+    "recommended_parts": [
+      "LPT hot section repair kit",
+      "HPC outlet seal kit",
+      "Bypass duct repair kit"
+    ],
+    "estimated_hours": 12,
+    "required_technician_skill": "level 3",
+    "safety_precautions": [
+      "Ensure proper engine shutdown procedures are followed",
+      "Wear personal protective equipment (PPE) during inspection and repair"
+    ],
+    "summary_for_technician": "Engine 056 is predicted to fail within 16.7 cycles due to anomalies in LPT and HPC outlet temperatures and pressures. Perform a thorough inspection and replace affected components as necessary.",
+    "predicted_rul": 16.7,
+    "risk_level": "HIGH",
+    "current_cycle": 136
+  },
+  "ENGINE-066": {
+    "asset_id": "ENGINE-066",
+    "priority": "high",
+    "predicted_failure_window": "within 17 cycles",
+    "affected_components": [
+      "Low Pressure Turbine (LPT) outlet temperature sensor",
+      "LPT",
+      "High Pressure Compressor (HPC) outlet static pressure sensor",
+      "HPC",
+      "Low Pressure Turbine (LPT)"
+    ],
+    "recommended_parts": [
+      "LPT outlet temperature sensor",
+      "HPC outlet static pressure sensor"
+    ],
+    "estimated_hours": 12,
+    "required_technician_skill": "level 3",
+    "safety_precautions": [
+      "Ensure proper engine shutdown before maintenance",
+      "Use personal protective equipment (PPE) during maintenance"
+    ],
+    "summary_for_technician": "Engine-066 is predicted to fail within 17 cycles due to high risk anomalies in LPT and HPC components. Perform inspection and replacement of affected components as needed.",
+    "predicted_rul": 17.3,
+    "risk_level": "HIGH",
+    "current_cycle": 147
+  },
+  "ENGINE-036": {
+    "asset_id": "ENGINE-036",
+    "priority": "high",
+    "predicted_failure_window": "within 18.9 cycles",
+    "affected_components": [
+      "Low Pressure Turbine (LPT) hot section",
+      "High Pressure Compressor (HPC) blades",
+      "LPT outlet temperature sensor",
+      "HPC outlet static pressure sensor"
+    ],
+    "recommended_parts": [
+      "LPT hot section repair kit",
+      "HPC blade replacement set"
+    ],
+    "estimated_hours": 12,
+    "required_technician_skill": "level 3",
+    "safety_precautions": [
+      "Ensure proper engine shutdown and cooling before inspection",
+      "Wear personal protective equipment (PPE) during work",
+      "Verify proper tooling and equipment usage"
+    ],
+    "summary_for_technician": "Inspect and repair LPT hot section and HPC blades due to abnormal temperature and pressure readings. Replace affected components as necessary to prevent engine failure.",
+    "predicted_rul": 18.9,
+    "risk_level": "HIGH",
+    "current_cycle": 126
+  },
+  "ENGINE-024": {
+    "asset_id": "ENGINE-024",
+    "priority": "high",
+    "predicted_failure_window": "within 19 cycles",
+    "affected_components": [
+      "Low Pressure Turbine (LPT)",
+      "Hot Section Components",
+      "High Pressure Compressor (HPC)"
+    ],
+    "recommended_parts": [
+      "LPT blades",
+      "Hot Section Vanes",
+      "HPC blades"
+    ],
+    "estimated_hours": 12,
+    "required_technician_skill": "level 3",
+    "safety_precautions": [
+      "Ensure proper engine shutdown procedures are followed",
+      "Wear personal protective equipment (PPE)"
+    ],
+    "summary_for_technician": "Perform inspection and replacement of LPT, hot section, and HPC components due to high risk of failure. Specialist or level 3 technician required.",
+    "predicted_rul": 19.0,
+    "risk_level": "HIGH",
+    "current_cycle": 186
+  },
+  "ENGINE-092": {
+    "asset_id": "ENGINE-092",
+    "priority": "high",
+    "predicted_failure_window": "within 20 cycles",
+    "affected_components": [
+      "Low Pressure Turbine (LPT) hot section",
+      "High Pressure Compressor (HPC) blades and vanes"
+    ],
+    "recommended_parts": [
+      "LPT hot section components",
+      "HPC blades and vanes"
+    ],
+    "estimated_hours": 12,
+    "required_technician_skill": "level 3",
+    "safety_precautions": [
+      "Ensure proper engine shutdown and cooling before inspection",
+      "Use personal protective equipment (PPE) during work"
+    ],
+    "summary_for_technician": "Inspect and replace LPT hot section components and HPC blades and vanes due to high risk of failure within 20 cycles.",
+    "predicted_rul": 20.2,
+    "risk_level": "HIGH",
+    "current_cycle": 150
+  },
+  "ENGINE-100": {
+    "asset_id": "ENGINE-100",
+    "priority": "high",
+    "predicted_failure_window": "within 20.5 cycles",
+    "affected_components": [
+      "Low Pressure Turbine (LPT)",
+      "Hot Section Components",
+      "High Pressure Compressor (HPC)",
+      "Core"
+    ],
+    "recommended_parts": [
+      "LPT blades",
+      "Hot Section Vanes",
+      "HPC blades",
+      "Core components (dependent on inspection findings)"
+    ],
+    "estimated_hours": 12,
+    "required_technician_skill": "level 3",
+    "safety_precautions": [
+      "Ensure proper engine shutdown and cooling procedures are followed",
+      "Wear personal protective equipment (PPE) as required",
+      "Verify proper tooling and equipment are used for component removal and replacement"
+    ],
+    "summary_for_technician": "Engine-100 is predicted to fail within 20.5 cycles due to multiple anomalies. Perform a thorough inspection and replace affected components as necessary to prevent engine failure.",
+    "predicted_rul": 20.5,
+    "risk_level": "HIGH",
+    "current_cycle": 198
+  },
+  "ENGINE-041": {
+    "asset_id": "ENGINE-041",
+    "priority": "high",
+    "predicted_failure_window": "within 22 cycles",
+    "affected_components": [
+      "Low Pressure Turbine (LPT) outlet",
+      "High Pressure Compressor (HPC) outlet static pressure sensor",
+      "HPC outlet static pressure sensor",
+      "Bypass ratio sensor",
+      "HPC outlet static pressure sensor"
+    ],
+    "recommended_parts": [
+      "LPT outlet temperature sensor",
+      "HPC outlet static pressure sensor",
+      "Bypass ratio sensor"
+    ],
+    "estimated_hours": 12,
+    "required_technician_skill": "level 3",
+    "safety_precautions": [
+      "Ensure proper engine shutdown procedures are followed",
+      "Wear personal protective equipment (PPE) during maintenance",
+      "Verify proper ventilation in the work area"
+    ],
+    "summary_for_technician": "Engine ENGINE-041 is predicted to fail within 22 cycles due to multiple sensor anomalies. Perform inspection and replace affected components as necessary.",
+    "predicted_rul": 22.3,
+    "risk_level": "HIGH",
+    "current_cycle": 123
+  },
+  "ENGINE-061": {
+    "asset_id": "ENGINE-061",
+    "priority": "high",
+    "predicted_failure_window": "within 25.2 cycles",
+    "affected_components": [
+      "Low Pressure Turbine (LPT)",
+      "High Pressure Compressor (HPC)",
+      "Fan and Bypass Duct"
+    ],
+    "recommended_parts": [
+      "LPT outlet temperature sensor",
+      "HPC outlet static pressure sensor",
+      "Corrected fan speed sensor"
+    ],
+    "estimated_hours": 12,
+    "required_technician_skill": "level 3",
+    "safety_precautions": [
+      "Ensure proper engine shutdown and cooling before inspection",
+      "Wear personal protective equipment (PPE) during work"
+    ],
+    "summary_for_technician": "Inspect and replace faulty sensors in LPT, HPC, and fan/bypass duct to prevent engine failure within 25.2 cycles.",
+    "predicted_rul": 25.2,
+    "risk_level": "HIGH",
+    "current_cycle": 159
+  },
+  "ENGINE-090": {
+    "asset_id": "ENGINE-090",
+    "priority": "high",
+    "predicted_failure_window": "within 25.5 cycles",
+    "affected_components": [
+      "Low Pressure Turbine (LPT) hot section",
+      "High Pressure Compressor (HPC) blades",
+      "Core"
+    ],
+    "recommended_parts": [
+      "LPT hot section repair kit",
+      "HPC blade set",
+      "Core assembly"
+    ],
+    "estimated_hours": 20,
+    "required_technician_skill": "level 3",
+    "safety_precautions": [
+      "Ensure engine is secured and locked out before work begins",
+      "Wear personal protective equipment (PPE) including gloves and safety glasses"
+    ],
+    "summary_for_technician": "Engine ENGINE-090 is predicted to fail within 25.5 cycles due to multiple sensor anomalies. Perform inspection and replacement of affected components to prevent engine failure.",
+    "predicted_rul": 25.5,
+    "risk_level": "HIGH",
+    "current_cycle": 146
+  },
+  "ENGINE-037": {
+    "asset_id": "ENGINE-037",
+    "priority": "high",
+    "predicted_failure_window": "within 25.7 cycles",
+    "affected_components": [
+      "HPC outlet static pressure sensor",
+      "Bypass ratio sensor",
+      "Physical fan",
+      "Corrected fan speed sensor",
+      "HPC outlet static pressure sensor"
+    ],
+    "recommended_parts": [
+      "HPC outlet static pressure sensor",
+      "Bypass ratio sensor",
+      "Physical fan",
+      "Corrected fan speed sensor"
+    ],
+    "estimated_hours": 12,
+    "required_technician_skill": "level 3",
+    "safety_precautions": [
+      "Ensure proper engine shutdown and cooling before inspection",
+      "Use personal protective equipment (PPE) during inspection and replacement"
+    ],
+    "summary_for_technician": "Inspect and replace faulty sensors and fan components on ENGINE-037 due to high risk of failure within 25.7 cycles.",
+    "predicted_rul": 25.7,
+    "risk_level": "HIGH",
+    "current_cycle": 121
+  },
+  "ENGINE-091": {
+    "asset_id": "ENGINE-091",
+    "priority": "high",
+    "predicted_failure_window": "within 27.5 cycles",
+    "affected_components": [
+      "HPC blades",
+      "LPT blades",
+      "LPT vanes",
+      "LPC outlet temperature sensor"
+    ],
+    "recommended_parts": [
+      "HPC blade set",
+      "LPT blade set",
+      "LPT vane set",
+      "LPC temperature sensor"
+    ],
+    "estimated_hours": 20,
+    "required_technician_skill": "level 3",
+    "safety_precautions": [
+      "Ensure proper engine shutdown and cooling before inspection",
+      "Use personal protective equipment (PPE) during work"
+    ],
+    "summary_for_technician": "Inspect and replace HPC and LPT blades and vanes due to abnormal sensor readings. Replace LPC temperature sensor as well.",
+    "predicted_rul": 27.5,
+    "risk_level": "HIGH",
+    "current_cycle": 234
+  },
+  "ENGINE-053": {
+    "asset_id": "ENGINE-053",
+    "priority": "high",
+    "predicted_failure_window": "within 29.5 cycles",
+    "affected_components": [
+      "Low Pressure Turbine (LPT) blades",
+      "Hot section components (e.g. nozzle guide vanes, turbine blades)"
+    ],
+    "recommended_parts": [
+      "LPT blade set",
+      "Hot section component set (e.g. nozzle guide vanes, turbine blades)"
+    ],
+    "estimated_hours": 16,
+    "required_technician_skill": "level 3",
+    "safety_precautions": [
+      "Ensure proper engine shutdown and cooling procedures are followed",
+      "Wear personal protective equipment (PPE) during inspection and repair"
+    ],
+    "summary_for_technician": "Inspect and replace LPT blades and hot section components due to abnormal core speed and HPC outlet static pressure readings. Specialist or level 3 technician required.",
+    "predicted_rul": 29.5,
+    "risk_level": "HIGH",
+    "current_cycle": 164
+  }
+}
